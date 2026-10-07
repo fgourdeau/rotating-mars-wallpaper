@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.0.0.0",
+  "Title": "Rotating Mars",
+  "Thumbnail": "thumbnail.jpg",
+  "Preview": null,
+  "Desc": "Real-time rotating Mars: MOLA terrain relief lit by the sun, day/night terminator, atmosphere and stars. Data: NASA/JPL/USGS Viking mosaic, NASA/GSFC MOLA.",
+  "Author": "François Gourdeau",
+  "License": "MIT (code). Imagery and altimetry: NASA / USGS, public domain",
+  "Contact": "https://github.com/fgourdeau/rotating-mars-wallpaper",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}

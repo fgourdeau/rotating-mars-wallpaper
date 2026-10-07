@@ -1,0 +1,106 @@
+{
+  "period": {
+    "type": "slider",
+    "text": "Rotation period (minutes per turn)",
+    "value": 10,
+    "min": 1,
+    "max": 120,
+    "step": 1
+  },
+  "zoom": {
+    "type": "slider",
+    "text": "Zoom (globe radius / screen height)",
+    "value": 0.45,
+    "min": 0.1,
+    "max": 2,
+    "step": 0.05
+  },
+  "offsetX": {
+    "type": "slider",
+    "text": "Position: left (-) / right (+), % of screen height",
+    "value": 0,
+    "min": -150,
+    "max": 150,
+    "step": 1
+  },
+  "offsetY": {
+    "type": "slider",
+    "text": "Position: down (-) / up (+), % of screen height",
+    "value": 0,
+    "min": -100,
+    "max": 100,
+    "step": 1
+  },
+  "sunAz": {
+    "type": "slider",
+    "text": "Sun: left (-) / right (+), degrees",
+    "value": -55,
+    "min": -120,
+    "max": 120,
+    "step": 1
+  },
+  "sunEl": {
+    "type": "slider",
+    "text": "Sun: down (-) / up (+), degrees",
+    "value": 12,
+    "min": -60,
+    "max": 60,
+    "step": 1
+  },
+  "relief": {
+    "type": "slider",
+    "text": "Terrain relief (0 = smooth, 1 = true to scale)",
+    "value": 3,
+    "min": 0,
+    "max": 8,
+    "step": 0.25
+  },
+  "atmosphere": {
+    "type": "slider",
+    "text": "Atmosphere",
+    "value": 1,
+    "min": 0,
+    "max": 3,
+    "step": 0.1
+  },
+  "stars": {
+    "type": "slider",
+    "text": "Stars",
+    "value": 1,
+    "min": 0,
+    "max": 3,
+    "step": 0.1
+  },
+  "distance": {
+    "type": "slider",
+    "text": "Camera distance (radii; large = flatter)",
+    "value": 3,
+    "min": 1.3,
+    "max": 20,
+    "step": 0.1
+  },
+  "tilt": {
+    "type": "slider",
+    "text": "Tilt towards viewer: south pole (-) / north pole (+), degrees",
+    "value": 20,
+    "min": -90,
+    "max": 90,
+    "step": 1
+  },
+  "roll": {
+    "type": "slider",
+    "text": "Axis lean: left (-) / right (+), degrees",
+    "value": 18,
+    "min": -45,
+    "max": 45,
+    "step": 1
+  },
+  "fps": {
+    "type": "slider",
+    "text": "Frames per second",
+    "value": 30,
+    "min": 5,
+    "max": 60,
+    "step": 5
+  }
+}
