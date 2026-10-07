@@ -2,6 +2,17 @@
 
 A live wallpaper showing Mars rotating in real time, rendered in the browser with WebGL2.
 
+![Mars with its day/night terminator and star field](screenshots/globe.jpg)
+
+![One full rotation, sped up](screenshots/rotation.gif)
+
+| Valles Marineris | Olympus Mons at dusk |
+|---|---|
+| ![Valles Marineris canyon system with lit relief](screenshots/valles-marineris.jpg) | ![Olympus Mons near the terminator](screenshots/olympus-mons.jpg) |
+
+The close-ups are the same wallpaper with a higher `zoom`; the animation is sped up
+(the default is one rotation every 10 minutes).
+
 - Terrain relief from laser altimetry, lit by the sun and changing as the planet turns
 - Day/night terminator with a reddened twilight
 - Dust haze and a thin atmosphere glow at the limb
