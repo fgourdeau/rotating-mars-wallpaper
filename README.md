@@ -21,7 +21,9 @@ The close-ups are the same wallpaper with a higher `zoom`; the animation is sped
 
 ## Use
 
-**Lively Wallpaper** (Windows, free): drag this folder, or a zip of it, onto the Lively window.
+**Lively Wallpaper** (Windows, free): download `rotating-mars-1.0.zip` from the
+[latest release](https://github.com/fgourdeau/rotating-mars-wallpaper/releases/latest)
+and drag it onto the Lively window.
 Right-click the tile, then *Customise*, to adjust the settings.
 
 **Any browser**: open `index.html`. Settings can be passed in the address, for example
